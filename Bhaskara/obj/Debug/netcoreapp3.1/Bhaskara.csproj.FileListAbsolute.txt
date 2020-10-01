@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.exe
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.deps.json
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.runtimeconfig.json
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.dll
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.pdb
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.AssemblyInfo.cs
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.dll
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.pdb
+C:\Users\Max\Desktop\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.genruntimeconfig.cache
